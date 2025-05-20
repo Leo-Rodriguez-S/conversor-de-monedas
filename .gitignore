@@ -34,3 +34,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# IntelliJ IDEA files
+.idea/
+conversor-de-monedas.iml
