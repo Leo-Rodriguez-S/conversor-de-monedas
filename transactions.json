@@ -1,0 +1,56 @@
+[
+  {
+    "localCurrency": "USD",
+    "destinationCurrency": "CRC",
+    "originalAmount": 5000.0,
+    "convertedAmount": 2532961.5
+  },
+  {
+    "localCurrency": "EUR",
+    "destinationCurrency": "CNY",
+    "originalAmount": 9518.0,
+    "convertedAmount": 76731.2606
+  },
+  {
+    "localCurrency": "EUR",
+    "destinationCurrency": "CRC",
+    "originalAmount": 1598.3,
+    "convertedAmount": 904967.2096299999
+  },
+  {
+    "localCurrency": "COP",
+    "destinationCurrency": "SOS",
+    "originalAmount": 1580.0,
+    "convertedAmount": 214.72199999999998
+  },
+  {
+    "localCurrency": "CRC",
+    "destinationCurrency": "KMF",
+    "originalAmount": 89457.0,
+    "convertedAmount": 77326.6308
+  },
+  {
+    "localCurrency": "MAD",
+    "destinationCurrency": "GEL",
+    "originalAmount": 158.15,
+    "convertedAmount": 46.543545
+  },
+  {
+    "localCurrency": "ARS",
+    "destinationCurrency": "SLL",
+    "originalAmount": 124.5,
+    "convertedAmount": 2496.9222
+  },
+  {
+    "localCurrency": "ARS",
+    "destinationCurrency": "DOP",
+    "originalAmount": 15748.666,
+    "convertedAmount": 819.08811866
+  },
+  {
+    "localCurrency": "USD",
+    "destinationCurrency": "CRC",
+    "originalAmount": 1000.0,
+    "convertedAmount": 507201.8
+  }
+]
